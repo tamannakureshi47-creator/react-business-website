@@ -1,16 +1,27 @@
-# React + Vite
+Live Demo :-  https://tamannakureshi47-creator.github.io/react-business-website/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🏠 Home Page
 
-Currently, two official plugins are available:
+<img width="1920" height="1711" alt="screencapture-localhost-5173-2026-10-05-16_51_36" src="https://github.com/user-attachments/assets/1dc69ccc-fa08-4482-bae6-301f6cb7e268" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ℹ️ About Page
 
-## React Compiler
+<img width="1920" height="2226" alt="screencapture-localhost-5173-about-2026-10-05-16_51_45" src="https://github.com/user-attachments/assets/a4beb3b8-c24d-4bc1-9f38-3622912b6bb7" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Services Page
 
-## Expanding the ESLint configuration
+<img width="1920" height="1147" alt="screencapture-localhost-5173-services-2026-10-05-17_00_18" src="https://github.com/user-attachments/assets/a67a053e-60fe-467f-90f5-8262671ea262" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📞 Contact Page
+
+<img width="1920" height="1140" alt="screencapture-localhost-5173-contact-2026-10-05-17_01_13" src="https://github.com/user-attachments/assets/e8e4245f-72b3-438c-81a1-fa03efbe00a0" />
+
+## 📝 Register Page
+
+<img width="1920" height="2038" alt="screencapture-localhost-5173-register-2026-10-05-17_01_49" src="https://github.com/user-attachments/assets/a9bb93b8-5e99-453f-ab02-9ae7937c1260" />
+
+## 🔐 Login Page
+
+<img width="1920" height="981" alt="screencapture-localhost-5173-login-2026-10-05-17_02_24" src="https://github.com/user-attachments/assets/27eb8ee0-8731-4ff6-beec-ef97abaab4de" />
+
+
